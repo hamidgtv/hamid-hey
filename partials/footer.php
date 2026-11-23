@@ -1,0 +1,1 @@
+</main><footer class="footer">© <?=date('Y')?> سامانه آموزشی <span>طراحی‌شده برای آموزش هوشمند</span></footer><script src="assets/app.js?v=30"></script></body></html>
